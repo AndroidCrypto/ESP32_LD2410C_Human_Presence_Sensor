@@ -2,5 +2,28 @@
 
 This repository accompanies the article "**How to Use an HLK LD2410C Human Presence Sensor with an ESP32 (Beginner Tutorial)**" published here:  <soon>
 
-In the **[Documentation](./Documentation)**" folder, you will find files and descriptions taken from the [original repository](https://github.com/waveshareteam/ESP32-C6-LCD-1.9) or the [manufacturer's shop page](https://www.waveshare.com/esp32-c6-lcd-1.9.htm) and provided here as copies. **Naturally, all rights remain with the manufacturer.**
+In the **[Documentation](./Documentation)**" folder, you will find the **HLK LD2410C Life Presence Sensor Module Data Sheet V1.00** and the **HLK-LD2410C Serial communication protocol V1.07** and provided here as copies. **Naturally, all rights remain with the manufacturer.**
 
+![Image 2](./images/esp32_c6_waveshare_lcd_1_9_pinout_700w.png)
+
+## Sketches
+
+
+### The first sketch with a Serial Monitor output
+**[Esp32_C6_LD2410C_Raw_v01](./Esp32_C6_LD2410C_Raw_v01)**
+
+### The second sketch with a Serial Monitor output that cuts the data stream into pieces
+**[Esp32_C6_LD2410C_Raw_Record_Limiter_v01](./Esp32_C6_LD2410C_Raw_Record_Limiter_v01)**
+
+### The third sketch with a Serial Monitor output that parses the data
+**[Esp32_C6_LD2410C_Raw_Parser_v02](./Esp32_C6_LD2410C_Raw_Parser_v02)**
+
+### The fourth sketch with a Serial Monitor output that parses the data and additionally uses a TFT display
+**[Esp32_C6_Lov_ST7789_LD2410C_Raw_Parser_v04](./Esp32_C6_Lov_ST7789_LD2410C_Raw_Parser_v04)**
+
+
+## Development Environment (Arduino)
+````plaintext
+Arduino IDE Version 2.3.10 (Windows)
+arduino-esp32 boards Version 3.3.8 (https://github.com/espressif/arduino-esp32) that is based on Espressif ESP32 Version 5.5.1
+````
