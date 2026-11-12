@@ -4,7 +4,7 @@ This repository accompanies the articles:
 
 **How to Use an HLK LD2410C Human Presence Sensor with an ESP32 (Beginner Tutorial)** published here: https://medium.com/@androidcrypto/how-to-use-an-hlk-ld2410c-human-presence-sensor-with-an-esp32-beginner-tutorial-17c9adde8e5a?sharedUserId=androidcrypto
 
-**HLK-LD2410C Human Presence Sensor in Pro Mode: Real-Time Equalizer, Auto-Calibration, and Dashboard Architecture with ESP32** published here: <soon>
+**HLK-LD2410C Human Presence Sensor in Pro Mode: Real-Time Equalizer, Auto-Calibration, and Dashboard Architecture with ESP32** published here: https://medium.com/@androidcrypto/hlk-ld2410c-human-presence-sensor-in-pro-mode-real-time-equalizer-auto-calibration-and-dashboard-e4fed6ea745d?sharedUserId=androidcrypto
 
 In the **[Documentation](./Documentation)** folder, you will find the **HLK LD2410C Life Presence Sensor Module Data Sheet V1.00** and the **HLK-LD2410C Serial communication protocol V1.07** and provided here as copies. **Naturally, all rights remain with the manufacturer.**
 
