@@ -31,7 +31,7 @@ The following sketch is explaned in the advanced article (HLK-LD2410C Human Pres
 ### Sketch with 6 different tasks, uses a TFT display
 **[Esp32_C6_PCB_Lov_ST7789_LD2410C_Advanced_v01](./Esp32_C6_PCB_Lov_ST7789_LD2410C_Advanced_v01)**
 
-![Image 2](./esp32_C6_ld2410c_06_300w.png)
+![Image 2](./.png)
 
 ## Development Environment (Arduino)
 ````plaintext
